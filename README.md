@@ -11,7 +11,7 @@ A simple calculator application built with Python's Tkinter library. This projec
 
 ## Screenshot
 
-![Calculator Screenshot](screenshot.png)  <!-- Replace with actual screenshot path -->
+C:\Users\varan\OneDrive\Pictures\Screenshots\cal  <!-- Replace with actual screenshot path -->
 
 ## Installation
 
